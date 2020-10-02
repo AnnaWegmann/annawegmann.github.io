@@ -1,5 +1,4 @@
 ---
-title: 'Anna Wegmann'
 layout: single
 author_profile: true
 ---
