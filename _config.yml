@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-twitter_username: AnnaWegmann
+twitter_username: anna_wegmann
 github_username: AnnaWegmann
 minimal_mistakes_skin: default
 search: true
@@ -60,14 +60,14 @@ plugins:
 author:
 #  name   : "Anna Wegmann"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "PhD Candidate in the [NLP and Society Lab](https://nlpsoc.github.io/) dat UU with [Dong Nguyen](https://dongnguyen.nl/)."
+  bio    : "PhD Candidate in the [NLP and Society Lab](https://nlpsoc.github.io/) at Utrecht University with [Dong Nguyen](https://dongnguyen.nl/)."
   links:
     - label: "UU Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.uu.nl/staff/AMWegmann"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/anna_wegmann"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/AnnaWegmann"
@@ -101,9 +101,9 @@ defaults:
       layout: single
       author_profile: true
 
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+#category_archive:
+#  type: liquid
+#  path: /categories/
+#tag_archive:
+#  type: liquid
+#  path: /tags/
