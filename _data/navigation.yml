@@ -6,6 +6,6 @@ main:
 #  - title: "Tags"
 #    url: /tags/
   - title: "About"
-    url: /
+    url: https://rafaelcartenet.github.io
   - title: "Publications"
     url: /publications/
