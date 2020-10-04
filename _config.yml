@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-#  name   : "Anna Wegmann"
+  name   : "PhD Candidate"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "PhD Candidate at the [NLP and Society Lab](https://nlpsoc.github.io/)"
+#  bio    : "PhD Candidate"
   location: Utrecht University, Netherlands
   email  : "a.m.wegmann@uu.nl"
   links:
