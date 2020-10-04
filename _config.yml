@@ -61,10 +61,10 @@ author:
   name   : "PhD Candidate"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : " "
-  location: "[Utrecht University](https://www.uu.nl/en)"
+  location: "Utrecht University"
   email  : "a.m.wegmann@uu.nl"
   links:
-    - label: "UU Website"
+    - label: "UU Profile"
       icon: "fas fa-fw fa-link"
       url: "https://www.uu.nl/staff/AMWegmann"
     - label: "Twitter"
