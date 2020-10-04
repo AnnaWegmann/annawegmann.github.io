@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "PhD Candidate"
   avatar : "/assets/images/bio-photo.jpg"
-#  bio    : "PhD Candidate"
+  bio    : " "
   location: Utrecht Uni, Netherlands
   email  : "a.m.wegmann@uu.nl"
   links:

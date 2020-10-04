@@ -7,6 +7,6 @@ Hi, I am a PhD Candidate at the [NLP and Society Lab](https://nlpsoc.github.io/)
 
 
 
-<img style="float: left;" src="/assets/images/talk.jpg" height=100>
+<img style="float: left;" src="/assets/images/talk.jpg" height=50>
 I am presenting the work done during my master's thesis with Prof. Markus Strohmaier at the CSSH group at RWTH Aachen University at the international semantic web conference.
 
