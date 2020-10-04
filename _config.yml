@@ -60,7 +60,9 @@ plugins:
 author:
 #  name   : "Anna Wegmann"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "PhD Candidate at the [NLP and Society Lab](https://nlpsoc.github.io/) with [Dong Nguyen](https://dongnguyen.nl/)."
+  bio    : "PhD Candidate at the [NLP and Society Lab](https://nlpsoc.github.io/)"
+  location: Utrecht University, Netherlands
+  email  : "a.m.wegmann@uu.nl"
   links:
     - label: "UU Website"
       icon: "fas fa-fw fa-link"
