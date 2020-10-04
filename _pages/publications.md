@@ -7,5 +7,5 @@ Detecting Different Forms of Semantic Shifts in Word Embeddings via Paradigmatic
 
 
 
-![drawn Anna presents](/assets/images/paper.jpg){: style="float: center; height: 250px; "}
+![drawn Anna presents](/assets/images/paper.jpg){: style="text-align: center; height: 250px; "}
 
