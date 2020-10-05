@@ -16,9 +16,7 @@
 title: Anna Wegmann
 email: a.m.wegmann@uu.nl
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Anna Wegmann's personal website 
 twitter_username: anna_wegmann
 github_username: AnnaWegmann
 minimal_mistakes_skin: default
@@ -62,11 +60,12 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : " "
   location: "Utrecht University"
-  email  : "a.m.wegmann@uu.nl"
   links:
     - label: "UU Profile"
       icon: "fas fa-fw fa-link"
       url: "https://www.uu.nl/staff/AMWegmann"
+    - label: "a.m.wegmann@uu.nl"
+      icon: 'fa-envelope-square'
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/anna_wegmann"
