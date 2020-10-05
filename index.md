@@ -9,3 +9,6 @@ Hi, I am a PhD Candidate at the [NLP and Society Lab](https://nlpsoc.github.io/)
 
 I am presenting the work done during my master's thesis with Prof. Markus Strohmaier at the CSSH group at RWTH Aachen University at the international semantic web conference.
 
+![drawn Anna research](./assets/images/research.PNG){: style=" float: middle; height: 150px; " .align-center}
+
+I am studying the role of language in online conversations about intergenerational dilemmas. The PhD project is funded by EMMA and NWO. This is a collaboration with Tijs van den Broek and Bianca Beersma at the Vrije University Amsterdam.
