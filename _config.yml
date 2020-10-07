@@ -13,12 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Anna Wegmann
+# title: Anna Wegmann
 email: a.m.wegmann@uu.nl
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Anna Wegmann's personal website
 twitter_username: anna_wegmann
 github_username: AnnaWegmann
 minimal_mistakes_skin: default
@@ -58,15 +56,17 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "PhD Candidate"
+  name   : "Anna Wegmann"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : " "
   location: "Utrecht University"
-  email  : "a.m.wegmann@uu.nl"
   links:
     - label: "UU Profile"
       icon: "fas fa-fw fa-link"
       url: "https://www.uu.nl/staff/AMWegmann"
+    - label: "a.m.wegmann@uu.nl"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "a.m.wegmann@uu.nl"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/anna_wegmann"
