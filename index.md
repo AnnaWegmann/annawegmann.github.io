@@ -10,7 +10,9 @@ You can meet me at the [International Semantic Web Conference 2020](https://iswc
 
 ![drawn Anna research](./assets/images/research.PNG){: style=" float: middle; height: 150px; " .align-center}
 
-I am studying the role of language in intergenerational conversations in online settings. I am especially interested in conversations, where the participating parties have conflicting interests due to their different age groups, i.e., are subject to an *intergenerational dilemma*. This can be topics like climate change, pension or the corona virus.
+I am studying the role of language in intergenerational conversations in online settings. 
+Questions I am investigating include: What writing *style* is typical for different generations? How does this adapt (see *linguistic accommodation*) in intergenerational conversations? How does style and accommodation correlate with conversation quality? etc. 
+I am especially interested in conversations, where the participating parties have conflicting interests due to their different age groups, i.e., are subject to an *intergenerational dilemma*. This can be topics like climate change, pensions or the corona virus.
 
 
 
