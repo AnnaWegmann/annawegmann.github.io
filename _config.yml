@@ -51,7 +51,7 @@ plugins:
 #  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+#   - jekyll-feed
   - jemoji
   - jekyll-include-cache
 
@@ -70,6 +70,8 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/anna_wegmann"
+    - label: "Google Scholar"
+      url: "https://scholar.google.com/citations?user=B9Ot26sAAAAJ"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/AnnaWegmann"
@@ -79,9 +81,11 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/anna_wegmann"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/AnnaWegmann"
+    - label: "Google Scholar"
+      url: "https://scholar.google.com/citations?user=B9Ot26sAAAAJ"
+    - label: "a.m.wegmann @uu.nl"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "https://annawegmann.github.io/"
 
 defaults:
 #  # _posts
