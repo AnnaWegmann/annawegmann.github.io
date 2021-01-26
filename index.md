@@ -6,14 +6,15 @@ author_profile: true
 Hi, I am a PhD Candidate at the [NLP and Society Lab](https://nlpsoc.github.io/) at [Utrecht University](https://www.uu.nl/en) with [Dong Nguyen](https://dongnguyen.nl/). Previously, I completed my master's and bachelor's degree at RWTH Aachen University in computer science and mathematics  respectively. Currently, I am focusing on conversational style analysis.
 
 ![drawn Anna presents](./assets/images/talk.jpg){: style=" float: middle; height: 150px; " .align-center}
-I presented our paper  ["Detecting Different Forms of Semantic Shift in Word Embeddings via Paradigmatic and Syntagmatic Association Changes"](https://annawegmann.github.io/pdf/Detecting-Different-Forms-of-Semantic-Shift.pdf) at the [International Semantic Web Conference 2020](https://iswc2020.semanticweb.org/) in November.  The research for this paper was done during my master's thesis with [Markus Strohmaier](http://www.markusstrohmaier.info/) and [Florian Lemmerich](http://florian.lemmerich.net/) at the [CSSH](http://cssh.rwth-aachen.de/) group at [RWTH Aachen University](www.rwth-aachen.de/). See the video under "Publications".
+I presented our paper  ["Detecting Different Forms of Semantic Shift in Word Embeddings via Paradigmatic and Syntagmatic Association Changes"](https://annawegmann.github.io/pdf/Detecting-Different-Forms-of-Semantic-Shift.pdf) at the [International Semantic Web Conference 2020](https://iswc2020.semanticweb.org/).  The research for this paper was done during my master's thesis with [Markus Strohmaier](http://www.markusstrohmaier.info/) and [Florian Lemmerich](http://florian.lemmerich.net/) at the [CSSH](http://cssh.rwth-aachen.de/) group at [RWTH Aachen University](www.rwth-aachen.de/). See the video [here](https://www.youtube.com/watch?v=V8M8-8-TteA).
 
 ![drawn Anna research](./assets/images/research.PNG){: style=" float: middle; height: 150px; " .align-center}
 
-I am studying the role of language in intergenerational conversations in online settings. 
-Questions I am investigating include: What writing *style* is typical for different generations? How does this adapt (see *linguistic accommodation*) in intergenerational conversations? How does style and accommodation correlate with conversation quality? etc. 
-I am especially interested in conversations, where the participating parties have conflicting interests due to their different age groups, i.e., are subject to an *intergenerational dilemma*. This can be topics like climate change, pensions or the corona virus.
+I am studying conversations. For now, mostly online conversations as this is where the data lies. But I am ambitious.
+Questions I am interested in include: Do people talk in a to-them specific *style*? If so, can we use this to verify whether two utterances have been written by the same person (e.g., [Style Change Detection](https://pan.webis.de/clef20/pan20-web/style-change-detection.html))? How does speaking style change, e.g., over the course of a conversation (see *linguistic accommodation*) or given different situations? How does style correlate with conversation quality? What even is a good conversation etc. 
+
+Topic-wise, I am especially interested in conversations, where the participating parties have conflicting interests. This can be topics like climate change, pensions or the corona virus.
 
 
-
+---
 My PhD project is funded by [EMMA](https://www.emma.nl/) and [NWO](https://www.nwo.nl/en). This is a collaboration with Dong Nguyen (UU), [Kees van Deemter](https://www.uu.nl/staff/CJvanDeemter?t=0) (UU),  Tijs van den Broek and Bianca Beersma at the [Vrije Universiteit Amsterdam](https://www.vu.nl/en/). 
