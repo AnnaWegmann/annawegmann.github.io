@@ -12,8 +12,7 @@ Questions I am interested in include: Do people talk in a, to them, specific *st
 
 Conversation topics I am especially interested in are those where the participating parties have conflicting interests. This can be topics like climate change, pensions or the corona virus.
 
-**Interested in doing a Bachelor's or Master's Thesis with me?** Great. Please contact me via my uu mail.: )
-
+**Interested in doing a Bachelor's or Master's Thesis with me?** Great. Please contact me via my uu mail.: )  
  Current topics I would find interesting to develop further are:  
  * Conversation quality (see, e.g., [Conversations gone awry](https://www.aclweb.org/anthology/P18-1125/))  
     * Intimicay (e.g., see [Quantifiying Intimcay in Language](https://www.aclweb.org/anthology/2020.emnlp-main.428/)) -- Questions could include "Does intimacy improve a conversation?", "In which convesations do people show intimacy?"  
