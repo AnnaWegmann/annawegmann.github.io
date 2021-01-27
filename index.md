@@ -20,7 +20,7 @@ Conversation topics I am especially interested in are those where the participat
     * empathy  
     * flow -- How to measure "conversational flow"?  
     * linguistic accommodation  
- * Conflict conversations -- Detection, Resolving, Strategies (e.g., see [Conversational Receptiveness](https://doi.org/10.1016/j.obhdp.2020.03.011)
+ * Conflict conversations -- Detection, Resolving, Strategies (e.g., see [Conversational Receptiveness](https://doi.org/10.1016/j.obhdp.2020.03.011))
  * Intrinsic plagiarism detection (see, e.g. [Is writing style predicitve of scientific fraud?](https://www.aclweb.org/anthology/W17-4905/)) -- Topics could be about improving detection algorithms, finding features relating to fraud, finding areas that are especially susceptible to fraud, ...  
  * Gender Bias in Fiction (e.g., [Analyzing Gender Bias within Narrative Tropes](https://www.aclweb.org/anthology/2020.nlpcss-1.23.pdf)) -- How does popular culture influence popular belief?
 
