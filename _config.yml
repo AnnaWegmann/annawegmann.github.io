@@ -75,6 +75,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/AnnaWegmann"
+    - label: "YouTube"
+      icon: "fas fa-fw fa-youtube-play"
+      url: "https://www.youtube.com/channel/UCZ278pw2pSrXLIHPRZdljlQ"
 
 footer:
   links:
