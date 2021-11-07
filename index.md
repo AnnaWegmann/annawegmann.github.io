@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 ---
 
-**TL;DR: PhD Candidate, Natural Language Processing, Computational Social Science, Language and Society, Language Variation, Facilitating Political Discourse**
+**TL;DR: PhD Candidate, Natural Language Processing, Computational Social Science, Language and Society, Language Variation, Facilitating Political Discourse, Looking for Internships for 2022!**
 
 Hi, I am a PhD Candidate at the [NLP and Society Lab](https://nlpsoc.github.io/) at [Utrecht University](https://www.uu.nl/en) with [Dong Nguyen](https://dongnguyen.nl/). I study social phenomena via natural language processing (NLP) methods using (mostly) social media data. Previously, I completed my master's and bachelor's degree at RWTH Aachen University in computer science and mathematics  respectively.
 
