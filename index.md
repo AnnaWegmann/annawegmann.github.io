@@ -13,7 +13,11 @@ I am studying conversations. Questions I am interested in include: Do people tal
 
 Discourse topics I am especially interested in are those where the participating parties have conflicting interests. This can be topics like climate change, pensions or the corona virus.
 
-**Interested in doing a Bachelor's or Master's Thesis with me?** Great. Please contact me via my uu mail. : )  
+**Interested in doing a Bachelor's or Master's Thesis with me?** 
+Do you want to do a bachelor's or master's project in the fields of natural language processing (i.e., any program that uses 'natural language', e.g., English as input or output) and computational social sciences (i.e., social science questions that are tackled with modern computational approaches)? 
+
+My personal research focus lies on language variation (e.g., how people say something as opposed to what they say) and online discussions. If you have topic suggestions that fit this general field and should be manageable in 10 weeks, I am open to discuss those. If you are unsure if it could be a fit, drop me a mail. 
+
  Current topics I would find interesting to develop further with you are:  
  * Conversation quality (see, e.g., [Conversations gone awry](https://www.aclweb.org/anthology/P18-1125/))  -- Questions could include "Is there something like converstional flow?", "What makes a political discourse successful?" 
     * Intimacy (e.g., see [Quantifiying Intimacy in Language](https://www.aclweb.org/anthology/2020.emnlp-main.428/)) -- Questions could include "Does intimacy improve a conversation?", "In which conversation do people show intimacy?"  
