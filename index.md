@@ -19,6 +19,7 @@ Do you want to do a bachelor's or master's project in the fields of natural lang
 My personal research focus lies on language variation (e.g., how people say something as opposed to what they say) and online discussions. If you have topic suggestions that fit this general field and should be manageable in 10 weeks, I am open to discuss those. If you are unsure if it could be a fit, drop me a mail. 
 
  Current topics I would find interesting to develop further with you are:  
+ * Style Evaluation: Do you want to expand on an existing NLP project? We recently published a paper (https://aclanthology.org/2021.emnlp-main.569/) on testing NLP models on whether are able to capture differences in how people express themselves (e.g., whether they use more formal or more informal words). We proposed a general framework to do this. However, the framework is far from finished. You could work on an existing project (https://github.com/nlpsoc/STEL) and add new style dimensions that state-of-the art style models can be tested on. Part of your thesis project would be motivating this new style dimension and collecting the necessary data to test models on it. Your contribution could even be part of a future publication on expanding the framework. Possible new style dimensions include: + Are people using the active or passive voice ("The cashier counted the money." vs. "The money was counted by the cashier.", see also: https://www.grammarly.com/blog/active-vs-passive-voice/) + How are people using punctuation? E.g., are they using punctuation at all? When are exclamation marks used? + How are people using casing? Are people starting the sentence with an upper case letter or not? Are they writing "i" or "I"?
  * Conversation quality (see, e.g., [Conversations gone awry](https://www.aclweb.org/anthology/P18-1125/))  -- Questions could include "Is there something like converstional flow?", "What makes a political discourse successful?" 
     * Intimacy (e.g., see [Quantifiying Intimacy in Language](https://www.aclweb.org/anthology/2020.emnlp-main.428/)) -- Questions could include "Does intimacy improve a conversation?", "In which conversation do people show intimacy?"  
     * Empathy (see, e.g., [Modeling Empathy and Distress in Reaction to News Stories](https://aclanthology.org/D18-1507/)  -- e.g., "How can we measure empathy?", "What is the effect of increased empathy in a conversation?"
@@ -27,6 +28,7 @@ My personal research focus lies on language variation (e.g., how people say some
  * Generation Detection -- e.g., is a text author a boomer, zoomer or millenial?
  * Intrinsic plagiarism detection (see, e.g. [Is writing style predicitve of scientific fraud?](https://www.aclweb.org/anthology/W17-4905/)) -- Topics could be about improving detection algorithms, finding features relating to fraud, finding areas that are especially susceptible to fraud, ...  
  * Gender Bias in Fiction (e.g., [Analyzing Gender Bias within Narrative Tropes](https://www.aclweb.org/anthology/2020.nlpcss-1.23.pdf)) -- How does popular culture influence popular belief?
+
 
 ---
 
