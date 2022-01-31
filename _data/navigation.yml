@@ -9,3 +9,5 @@ main:
     url: https://annawegmann.github.io
   - title: "Publications"
     url: /publications/
+  - title: "Student Projects"
+    url: /thesis/
