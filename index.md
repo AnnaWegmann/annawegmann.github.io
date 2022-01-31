@@ -27,8 +27,7 @@ My PhD project is funded by [EMMA](https://www.emma.nl/) and [NWO](https://www.n
 
 ---
 
-**Interested in doing a Bachelor's or Master's Thesis with me?** see: [Student Projects](./_pages/
-thesis.md)
+**Interested in doing a Bachelor's or Master's Thesis with me?** see: [Student Projects](https://annawegmann.github.io/thesis/)
 
 
 
