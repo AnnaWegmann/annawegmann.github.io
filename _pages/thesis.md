@@ -23,4 +23,4 @@ Of course, these projects are mere suggestions and very tentative descriptions. 
 
 Your first step will be to develop a research plan that is doable in your given time frame. That usually means making several assumptions and simplifications to fit, e.g., a 10 week project plan. It is great if you can already bring a plan in our first meeting. It does not have to be perfect by any means. We can develop it further together.
 
-Hope to work with you soon,
+Hope to work with you soon!
