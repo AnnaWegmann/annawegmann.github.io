@@ -13,6 +13,20 @@ I am studying conversations. Questions I am interested in include: Do people tal
 
 Discourse topics I am especially interested in are those where the participating parties have conflicting interests. This can be topics like climate change, pensions or the corona virus.
 
+---
+
+![drawn Anna presents](./assets/images/talk.jpg){: style=" float: middle; height: 150px; " .align-center}
+
+I presented our paper [Does It Capture STEL? A Modular, Similarity-based Linguistic Style Evaluation Framework](https://aclanthology.org/2021.emnlp-main.569/) at [EMNLP 2021](https://2021.emnlp.org/) (video [here](https://www.youtube.com/watch?v=WPbxyOrDK6w)). I presented our paper  ["Detecting Different Forms of Semantic Shift in Word Embeddings via Paradigmatic and Syntagmatic Association Changes"](https://annawegmann.github.io/pdf/Detecting-Different-Forms-of-Semantic-Shift.pdf) at the [International Semantic Web Conference 2020](https://iswc2020.semanticweb.org/) ( video [here](https://www.youtube.com/watch?v=V8M8-8-TteA)).  
+
+Invited Talks: Bocconi University (2021); Complexity Science Hub, Vienna (2020)
+
+---
+
+My PhD project is funded by [EMMA](https://www.emma.nl/) and [NWO](https://www.nwo.nl/en). This is a collaboration with Dong Nguyen (UU), [Kees van Deemter](https://www.uu.nl/staff/CJvanDeemter?t=0) (UU),  Tijs van den Broek and Bianca Beersma in the [#Bridging](https://nwo-bridging.github.io/) Project. 
+
+---
+
 **Interested in doing a Bachelor's or Master's Thesis with me?** 
 Do you want to do a project in the fields of natural language processing (i.e., any program that uses 'natural language', e.g., English as input or output) and/or computational social sciences (i.e., social science questions that are tackled with modern computational approaches)? If you have topic suggestions that fit these general fields and should be manageable your given time frame, I am open to discuss those. If you are unsure if it could be a fit, drop me a mail. My personal research focus lies on language variation (e.g., how people say something as opposed to what they say) and online discussions. 
 
@@ -31,13 +45,4 @@ Do you want to do a project in the fields of natural language processing (i.e., 
  * Gender Bias in Fiction (e.g., [Analyzing Gender Bias within Narrative Tropes](https://www.aclweb.org/anthology/2020.nlpcss-1.23.pdf)) -- How does popular culture influence popular belief?
 
 
----
 
-![drawn Anna presents](./assets/images/talk.jpg){: style=" float: middle; height: 150px; " .align-center}
-
-I presented our paper [Does It Capture STEL? A Modular, Similarity-based Linguistic Style Evaluation Framework](https://aclanthology.org/2021.emnlp-main.569/) at [EMNLP 2021](https://2021.emnlp.org/) (video [here](https://www.youtube.com/watch?v=WPbxyOrDK6w)). I presented our paper  ["Detecting Different Forms of Semantic Shift in Word Embeddings via Paradigmatic and Syntagmatic Association Changes"](https://annawegmann.github.io/pdf/Detecting-Different-Forms-of-Semantic-Shift.pdf) at the [International Semantic Web Conference 2020](https://iswc2020.semanticweb.org/) ( video [here](https://www.youtube.com/watch?v=V8M8-8-TteA)).  
-
-Invited Talks: Bocconi University (2021); Complexity Science Hub, Vienna (2020)
-
----
-My PhD project is funded by [EMMA](https://www.emma.nl/) and [NWO](https://www.nwo.nl/en). This is a collaboration with Dong Nguyen (UU), [Kees van Deemter](https://www.uu.nl/staff/CJvanDeemter?t=0) (UU),  Tijs van den Broek and Bianca Beersma in the [#Bridging](https://nwo-bridging.github.io/) Project. 
