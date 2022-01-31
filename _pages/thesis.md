@@ -1,3 +1,8 @@
+---
+permalink: /student-projects/
+title: "Student Projects"
+---
+
 Do you want to do a project in the fields of natural language processing (i.e., any program that uses 'natural language', e.g., English as input or output) and/or computational social sciences (i.e., social science questions that are tackled with modern computational approaches)? If you have topic suggestions that fit these general fields and should be manageable your given time frame, I am open to discuss those. If you are unsure if it could be a fit, drop me a mail. My personal research focus lies on language variation (e.g., how people say something as opposed to what they say) and online discussions. 
 
  Current topics I would find interesting to develop further with you are:  
