@@ -19,6 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Anna Wegmann's personal website
 twitter_username: anna_wegmann
 github_username: AnnaWegmann
+# logo: "/assets/images/me_blue_88x105.PNG"
 minimal_mistakes_skin: default
 # search: true
 
@@ -57,34 +58,36 @@ plugins:
 
 author:
   name   : "Anna Wegmann"
+  bio    : "PhDing in NLP and CSS about *how we talk*"
   avatar : "/assets/images/bio-photo_.jpg"
-  bio    : "PhDing in NLP"
   youtube: "https://www.youtube.com/channel/UCZ278pw2pSrXLIHPRZdljlQ"
   location: "Utrecht University"
   links:
     - label: "UU Profile"
       icon: "fas fa-fw fa-link"
       url: "https://www.uu.nl/staff/AMWegmann"
-    - label: "a.m.wegmann @uu.nl"
+    - label: "a.m.wegmann@uu.nl"
       icon: "fas fa-fw fa-envelope-square"
       url: "https://annawegmann.github.io/"
-    - label: "Twitter"
+    - label: "@anna_wegmann"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/anna_wegmann"
-    - label: "Google Scholar"
+    - label: "&nbsp; B9Ot26sAAAAJ"
+      icon: "fas ai ai-google-scholar"
       url: "https://scholar.google.com/citations?user=B9Ot26sAAAAJ"
-    - label: "GitHub"
+    - label: "AnnaWegmann"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/AnnaWegmann"
 
 footer:
   links:
-    - label: "Twitter"
+    - label: "@anna_wegmann"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/anna_wegmann"
     - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
       url: "https://scholar.google.com/citations?user=B9Ot26sAAAAJ"
-    - label: "a.m.wegmann @uu.nl"
+    - label: "a.m.wegmann@uu.nl"
       icon: "fas fa-fw fa-envelope-square"
       url: "https://annawegmann.github.io/"
 
