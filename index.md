@@ -7,7 +7,7 @@ author_profile: true
 
 Hi, I am a PhD Candidate at the [NLP and Society Lab](https://nlpsoc.github.io/) at [Utrecht University](https://www.uu.nl/en) with [Dong Nguyen](https://dongnguyen.nl/). I study social phenomena via natural language processing (NLP) methods using (mostly) social media data. Previously, I completed my master's and bachelor's degree at RWTH Aachen University in computer science and mathematics  respectively.
 
-![drawn Anna research](./assets/images/me_blue_research_flipped.PNG){: style=" float: middle; height: 150px; " .align-center}
+![drawn Anna research](./assets/images/me_blue_research.PNG){: style=" float: middle; height: 150px; " .align-center}
 
 I am studying conversations. Questions I am interested in include: Do people talk in a, to them, specific *style*? How can style be measured? How does style or phrasing affect the course of a conversation? How does style correlate with "conversation quality"? What even is a good conversation? And many more ...
 
