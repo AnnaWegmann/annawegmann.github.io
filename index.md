@@ -9,7 +9,7 @@ Hi, I am a PhD Candidate at the [NLP and Society Lab](https://nlpsoc.github.io/)
 
 ![drawn Anna research](./assets/images/me_blue_research.PNG){: style=" float: middle; height: 150px; " .align-center}
 
-I am studying language variation (e.g., how people say something as opposed to what they say) and online discussions. Questions I am interested in include: Do people talk in a, to them, specific *style*? How can style be measured? How does style or phrasing affect the course of a conversation? How does style correlate with "conversation quality"? What even is a good conversation? And many more ...
+I am studying language variation (e.g., how people say something as opposed to what they say) and online discussions. Questions I am interested in include: Do people talk in a, to them, specific *style*? How does style or phrasing affect the course of a conversation? What are markers of a "good" conversation? Can we facilitate more constructive online discussions? And many more ...
 
 Discourse topics I am especially interested in are those where the participating parties have conflicting interests. This can be topics like climate change, pensions or the corona virus.
 
