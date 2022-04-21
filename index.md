@@ -9,7 +9,7 @@ I am a PhD Candidate at the [NLP and Society Lab](https://nlpsoc.github.io/) at 
 
 ![drawn Anna research](./assets/images/me_blue_research.PNG){: style=" float: middle; height: 150px; " .align-center}
 
-I am studying language variation (e.g., how people say something as opposed to what they say) and online discussions. Questions I am interested in include: Do people talk in a, to them, specific *style*? How does style or phrasing affect the course of a conversation? What are markers of a "good" conversation? Can we facilitate more constructive online discussions? And many more ...
+I am studying language variation (e.g., how people say something as opposed to what they say) and online discussions. Questions I am interested in include: Do people talk in a, to them, specific *style*? How does style or phrasing affect a conversation? Is it possible to facilitate constructive online discussions? ...
 
 Discourse topics I am especially interested in are those where the participating parties have conflicting interests. This can be topics like climate change, pensions or the corona virus.
 
@@ -24,7 +24,7 @@ Invited Talks: Bocconi University (2021); Complexity Science Hub, Vienna (2020)
 ---
 
 My PhD project is funded by [EMMA](https://www.emma.nl/) and [NWO](https://www.nwo.nl/en). This is (among others) a collaboration with Dong Nguyen (UU), [Kees van Deemter](https://www.uu.nl/staff/CJvanDeemter?t=0) (UU),  Tijs van den Broek and Bianca Beersma in the [#Bridging](https://nwo-bridging.github.io/) Project. 
-
+Best
 ---
 
 **Interested in doing a Bachelor's or Master's Thesis with me?** see: [Student Projects](https://annawegmann.github.io/student-projects/)
