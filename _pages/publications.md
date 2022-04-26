@@ -3,7 +3,7 @@ permalink: /publications/
 title: "Publications"
 ---
 
-Same Author or Just Same Topic? Towards Content-Independent Style Representations, Anna Wegmann, Marijn Schraagen and Dong Nguyen, 7th Workshop on Representation Learning for NLP at ACL 2022, [Preprint](https://arxiv.org/pdf/2204.04907.pdf)
+Same Author or Just Same Topic? Towards Content-Independent Style Representations, Anna Wegmann, Marijn Schraagen and Dong Nguyen, 7th Workshop on Representation Learning for NLP at ACL 2022, [Preprint](https://arxiv.org/pdf/2204.04907.pdf), [Video](https://www.youtube.com/watch?v=QHW7pfwJ56E), [Poster](https://annawegmann.github.io/pdf/Style-Embedding_Poster.pdf)
 
 
 Does It Capture STEL? A Modular, Similarity-based Linguistic Style Evaluation Framework, Anna Wegmann and Dong Nguyen, EMNLP 2021. [acl anthology](https://aclanthology.org/2021.emnlp-main.569/), [video](https://www.youtube.com/watch?v=WPbxyOrDK6w), [poster](https://annawegmann.github.io/pdf/STEL-poster.pdf)
