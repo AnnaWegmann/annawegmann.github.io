@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "Anna Wegmann"
-  bio    : "PhDing in NLP and CSS about *how we talk*. Currently visiting VU Amsterdam."
+  bio    : "PhDing in NLP and CSS about *how we talk*."
   avatar : "/assets/images/bio-photo_.jpg"
   youtube: "https://www.youtube.com/channel/UCZ278pw2pSrXLIHPRZdljlQ"
   location: "Utrecht University"
