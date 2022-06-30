@@ -5,13 +5,11 @@ author_profile: true
 
 **TL;DR: PhD Candidate, Natural Language Processing, Computational Social Science, Language and Society, Language Variation, Facilitating Political Discourse, Looking for Internships!**
 
-I am a PhD Candidate at the [NLP and Society Lab](https://nlpsoc.github.io/) at [Utrecht University](https://www.uu.nl/en) with [Dong Nguyen](https://dongnguyen.nl/). I study social phenomena via natural language processing (NLP) methods using (mostly) social media data. Previously, I completed my master's and bachelor's degree at RWTH Aachen University in computer science and mathematics  respectively.
+I am a PhD Candidate at the [NLP and Society Lab](https://nlpsoc.github.io/) at [Utrecht University](https://www.uu.nl/en) with [Dong Nguyen](https://dongnguyen.nl/). I study social phenomena via natural language processing (NLP) methods using (mostly) social media data. Previously, I studied computer science and mathematics at RWTH Aachen University.
 
 ![drawn Anna research](./assets/images/me_blue_research.PNG){: style=" float: middle; height: 150px; " .align-center}
 
-I am studying language variation (e.g., how people say something as opposed to what they say) and online discussions. Questions I am interested in include: Do people talk in a, to them, specific *style*? How does style or phrasing affect a conversation? Is it possible to facilitate constructive online discussions? ...
-
-Discourse topics I am especially interested in are those where the participating parties have conflicting interests. This can be topics like climate change, pensions or the corona virus.
+I am interested in how people talk and how they talk with each other. For example, I studied language variation (e.g., how people say something as opposed to what they say) and online discussions. Questions I am interested in include: Do people talk in a, to them, specific *style*? How does style or phrasing affect a conversation? Is it possible to facilitate constructive online discussions? ...
 
 ---
 
@@ -23,7 +21,7 @@ Invited Talks: SCALE at Johns Hopkins University (2022); Bocconi University (202
 
 ---
 
-My PhD project is funded by [EMMA](https://www.emma.nl/) and [NWO](https://www.nwo.nl/en). This is (among others) a collaboration with Dong Nguyen (UU), [Kees van Deemter](https://www.uu.nl/staff/CJvanDeemter?t=0) (UU),  Tijs van den Broek and Bianca Beersma in the [#Bridging](https://nwo-bridging.github.io/) Project.
+My PhD project is funded by [EMMA](https://www.emma.nl/) and [NWO](https://www.nwo.nl/en). This is a collaboration with Dong Nguyen (UU), [Kees van Deemter](https://www.uu.nl/staff/CJvanDeemter?t=0) (UU),  Tijs van den Broek and Bianca Beersma in the [#Bridging](https://nwo-bridging.github.io/) Project.
 
 ---
 
