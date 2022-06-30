@@ -17,7 +17,7 @@ I am interested in how people talk and how they talk with each other. For exampl
 
 I presented our paper on [Content-Independent Style Representations](https://aclanthology.org/2022.repl4nlp-1.26/) at RepL4NLP co-located with ACL 2022. See the video [here](https://www.youtube.com/watch?v=QHW7pfwJ56E). We put our style embedding model for everyone to use [on the huggingface model hub](https://huggingface.co/AnnaWegmann/Style-Embedding). This is work building on [Does It Capture STEL? A Modular, Similarity-based Linguistic Style Evaluation Framework](https://aclanthology.org/2021.emnlp-main.569/), our 2021 EMNLP paper (video [here](https://www.youtube.com/watch?v=WPbxyOrDK6w)). 
 
-![example style representations](./assets/images/Style-Model.png){: style=" float: middle; height: 200px; " .align-center}
+![example style representations](./assets/images/Style-Model.png){: style=" float: middle; height: 500px; " .align-center}
 
 Invited Talks: SCALE at Johns Hopkins University (2022); Bocconi University (2021); Complexity Science Hub, Vienna (2020)
 
