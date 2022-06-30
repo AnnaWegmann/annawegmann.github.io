@@ -17,9 +17,9 @@ Discourse topics I am especially interested in are those where the participating
 
 ![drawn Anna presents](./assets/images/me_talk_blue.PNG){: style=" float: middle; height: 200px; " .align-center}
 
-I presented our paper [Does It Capture STEL? A Modular, Similarity-based Linguistic Style Evaluation Framework](https://aclanthology.org/2021.emnlp-main.569/) at [EMNLP 2021](https://2021.emnlp.org/) (video [here](https://www.youtube.com/watch?v=WPbxyOrDK6w)). I presented our paper  ["Detecting Different Forms of Semantic Shift in Word Embeddings via Paradigmatic and Syntagmatic Association Changes"](https://annawegmann.github.io/pdf/Detecting-Different-Forms-of-Semantic-Shift.pdf) at the [International Semantic Web Conference 2020](https://iswc2020.semanticweb.org/) (video [here](https://www.youtube.com/watch?v=V8M8-8-TteA)).  
+I presented our paper on [Content-Independent Style Representations](https://aclanthology.org/2022.repl4nlp-1.26/) at RepL4NLP co-located with ACL 2022. See the video [here](https://www.youtube.com/watch?v=QHW7pfwJ56E). We put our style embedding model for everyone to use [on the huggingface model hub](https://huggingface.co/AnnaWegmann/Style-Embedding). This is work building on [Does It Capture STEL? A Modular, Similarity-based Linguistic Style Evaluation Framework](https://aclanthology.org/2021.emnlp-main.569/), our 2021 EMNLP paper (video [here](https://www.youtube.com/watch?v=WPbxyOrDK6w)). 
 
-Invited Talks: Bocconi University (2021); Complexity Science Hub, Vienna (2020)
+Invited Talks: SCALE at Johns Hopkins University (2022); Bocconi University (2021); Complexity Science Hub, Vienna (2020)
 
 ---
 
