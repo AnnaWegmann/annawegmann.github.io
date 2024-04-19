@@ -3,6 +3,8 @@ permalink: /publications/
 title: "Publications"
 ---
 
+**First Author Publications**  
+
 Same Author or Just Same Topic? Towards Content-Independent Style Representations, Anna Wegmann, Marijn Schraagen and Dong Nguyen, 7th Workshop on Representation Learning for NLP at ACL 2022, [acl anthology](https://aclanthology.org/2022.repl4nlp-1.26/), [Video](https://www.youtube.com/watch?v=QHW7pfwJ56E), [Poster](https://annawegmann.github.io/pdf/Style-Embedding_Poster.pdf), [Code](https://github.com/nlpsoc/Style-Embeddings)
 
 
@@ -12,6 +14,9 @@ Does It Capture STEL? A Modular, Similarity-based Linguistic Style Evaluation Fr
 Detecting Different Forms of Semantic Shifts in Word Embeddings via Paradigmatic and Syntagmatic Association Changes, Anna Wegmann, Florian Lemmerich and Markus Strohmaier, ISWC 2020. [Author Version](https://annawegmann.github.io/pdf/Detecting-Different-Forms-of-Semantic-Shift.pdf), [Video](https://www.youtube.com/watch?v=V8M8-8-TteA&feature=emb_logo)
 
 
+**Other Publications**  
+
+Evgeny Vasilets, Tijs van den Broek, Anna Wegmann, David Abadi, Dong Nguyen, Detecting Perspective-Getting in Wikipedia Discussions. Workshop on NLP and Computational Social Science at NAACL 2024.
 
 ![drawn Anna presents](/assets/images/me_blue.PNG){: style=" height: 250px; " .align-center}
 
