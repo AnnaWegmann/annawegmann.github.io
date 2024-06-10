@@ -20,7 +20,7 @@ Detecting Different Forms of Semantic Shifts in Word Embeddings via Paradigmatic
 
 **Other Publications**  
 
-Evgeny Vasilets, Tijs van den Broek, Anna Wegmann, David Abadi, Dong Nguyen, Detecting Perspective-Getting in Wikipedia Discussions. Workshop on NLP and Computational Social Science at NAACL 2024.
+Evgeny Vasilets, Tijs van den Broek, Anna Wegmann, David Abadi, Dong Nguyen, Detecting Perspective-Getting in Wikipedia Discussions. Workshop on NLP and Computational Social Science at NAACL 2024. [Paper](https://annawegmann.github.io/pdf/2024-Vasilets_Perspective-Getting-Wikipedia.pdf)
 
 ![drawn Anna presents](/assets/images/me_blue.PNG){: style=" height: 250px; " .align-center}
 
