@@ -3,11 +3,9 @@ permalink: /publications/
 title: "Publications"
 ---
 
-**Work in Progress**
-
-What's Mine becomes Yours: Defining, Annotating and Detecting Context-Dependent Paraphrases in News Interview Dialogs, Anna Wegmann, Tijs van den Broek and Dong Nguyen, 2024, [arxiv preprint](https://arxiv.org/abs/2404.06670)
-
 **First Author Publications**  
+
+What's Mine becomes Yours: Defining, Annotating and Detecting Context-Dependent Paraphrases in News Interview Dialogs, Anna Wegmann, Tijs van den Broek and Dong Nguyen, Accepted at as a main conference paper for EMNLP 2024, [arxiv preprint](https://arxiv.org/abs/2404.06670)
 
 Same Author or Just Same Topic? Towards Content-Independent Style Representations, Anna Wegmann, Marijn Schraagen and Dong Nguyen, 7th Workshop on Representation Learning for NLP at ACL 2022, [acl anthology](https://aclanthology.org/2022.repl4nlp-1.26/), [Video](https://www.youtube.com/watch?v=QHW7pfwJ56E), [Poster](https://annawegmann.github.io/pdf/Style-Embedding_Poster.pdf), [Slides](https://annawegmann.github.io/pdf/2022_Style-Embedding_Slides.pdf), [Code](https://github.com/nlpsoc/Style-Embeddings)
 
