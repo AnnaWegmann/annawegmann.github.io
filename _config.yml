@@ -67,7 +67,7 @@ author:
     - label: "UU Profile"
       icon: "fas fa-fw fa-link"
       url: "https://www.uu.nl/staff/AMWegmann"
-    - label: "@annawegmann"
+    - label: "🦋 @annawegmann"
       icon: "<span class='icon-butterfly'>🦋</span>"
       url: "https://bsky.app/profile/annawegmann.bsky.social"
     - label: "a.m.wegmann@uu.nl"
