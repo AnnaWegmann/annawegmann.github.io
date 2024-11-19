@@ -533,3 +533,8 @@ border-radius: .1em;
 .ai-inverse {
   color: #fff;
 }
+.icon-butterfly {
+  font-size: 1.2em; /* Adjust the size */
+  vertical-align: middle;
+  color: inherit; /* Optional, inherits text color */
+}
