@@ -3,7 +3,7 @@ permalink: /student-projects/
 title: "Student Projects"
 ---
 
-Do you want to do a BSc/MSc (thesis) project in natural language processing (i.e., any algorithm that uses 'natural language', e.g., English as input or output) related to language variation (e.g., how people say something as opposed to what they say; includes any way that language varies, think differences between generations, slang, ...)? If you have topic suggestions that fit these general fields and should be manageable your given time frame, I am open to discuss those. If you are unsure if it could be a fit, drop me a mail. My personal research focus lies on measuring, evaluating and representing language variation. 
+Do you want to do a BSc/MSc or research project in natural language processing (i.e., any algorithm that uses 'natural language', e.g., English as input or output) related to language variation (e.g., how people say something as opposed to what they say; includes any way that language varies, think differences between identities, regions, ...)? If you have topic suggestions that fit these general fields and should be manageable your given time frame, I am open to discuss those. If you are unsure if it could be a fit, drop me a mail. My personal research focus lies on measuring, evaluating and representing language variation. 
 
 Current topics I would find interesting to develop further with you are listed below. Of course, these projects are mere suggestions and very tentative descriptions. Everything is open to change and for discussion.
  
