@@ -84,6 +84,9 @@ author:
 
 footer:
   links:
+    - label: "@annawegmann"
+      icon: "🦋"
+      url: "https://bsky.app/profile/annawegmann.bsky.social"    
     - label: "@anna_wegmann"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/anna_wegmann"
