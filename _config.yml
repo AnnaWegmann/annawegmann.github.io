@@ -67,6 +67,9 @@ author:
     - label: "UU Profile"
       icon: "fas fa-fw fa-link"
       url: "https://www.uu.nl/staff/AMWegmann"
+    - label: "@annawegmann"
+      icon: "<span class='icon-butterfly'>🦋</span>"
+      url: "https://bsky.app/profile/annawegmann.bsky.social"
     - label: "a.m.wegmann@uu.nl"
       icon: "fas fa-fw fa-envelope-square"
       url: "https://annawegmann.github.io/"
@@ -79,9 +82,7 @@ author:
     - label: "AnnaWegmann"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/AnnaWegmann"
-    - label: "@annawegmann"
-      icon: "🦋"
-      url: "https://bsky.app/profile/annawegmann.bsky.social"
+
 
 footer:
   links:
