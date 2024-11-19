@@ -17,6 +17,7 @@
 email: a.m.wegmann@uu.nl
 description: >- # this means to ignore newlines until "baseurl:"
   Anna Wegmann's personal website
+# bsky_username: annawegmann.bsky.social
 twitter_username: anna_wegmann
 github_username: AnnaWegmann
 # logo: "/assets/images/me_blue_88x105.PNG"
@@ -78,6 +79,8 @@ author:
     - label: "AnnaWegmann"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/AnnaWegmann"
+    - label: "@annawegmann"
+      icon: "🦋"
 
 footer:
   links:
