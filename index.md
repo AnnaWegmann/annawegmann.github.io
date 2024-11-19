@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 ---
 
-**TL;DR: PhD Candidate, Natural Language Processing, Language Variation and Diversity, Neural Style Representations, Paraphrasing in Dialog, Tokenization for Language Variation, Evaluation**
+**TL;DR: PhD Candidate, Natural Language Processing, Language Variation and Diversity, Evaluating LLMs, Neural Style Representations, Paraphrasing in Dialog, Tokenization for Language Variation**
 
 I am a PhD Candidate at the [NLP and Society Lab](https://nlpsoc.github.io/) at [Utrecht University](https://www.uu.nl/en) with [Dong Nguyen](https://dongnguyen.nl/). I study language variation (e.g., lexical variation, spelling variation, ... clustered around different social groups) via natural language processing (NLP) and machine learning methods. Previously, I studied computer science and mathematics at RWTH Aachen University. Currently wrapping up my thesis with the working title ``Say the Same but Differently: Measuring Stylistic Variation and Paraphrasing Across Speakers''.
 
