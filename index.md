@@ -3,23 +3,23 @@ layout: single
 author_profile: true
 ---
 
-**TL;DR: PhD Candidate, Natural Language Processing, Computational Social Science, Language and Society, Language Variation, Paraphrasing in Dialog**
+**TL;DR: PhD Candidate, Natural Language Processing, Language Variation and Diversity, Neural Style Representations, Paraphrasing in Dialog, Tokenization for Language Variation, Evaluation**
 
-I am a PhD Candidate at the [NLP and Society Lab](https://nlpsoc.github.io/) at [Utrecht University](https://www.uu.nl/en) with [Dong Nguyen](https://dongnguyen.nl/). I study social phenomena via natural language processing (NLP) methods using (mostly) social media data. Previously, I studied computer science and mathematics at RWTH Aachen University.
+I am a PhD Candidate at the [NLP and Society Lab](https://nlpsoc.github.io/) at [Utrecht University](https://www.uu.nl/en) with [Dong Nguyen](https://dongnguyen.nl/). I study language variation (e.g., lexical variation, spelling variation, ... clustered around different social groups) via natural language processing (NLP) and machine learning methods. Previously, I studied computer science and mathematics at RWTH Aachen University. Currently wrapping up my thesis with the working title ``Say the Same but Differently: Measuring Stylistic Variation and Paraphrasing Across Speakers''.
 
 ![drawn Anna research](./assets/images/me_blue_research.PNG){: style=" float: middle; height: 150px; " .align-center}
 
-I am interested in how people talk and how they talk with each other. For example, I studied language variation (e.g., how people say something as opposed to what they say) and online discussions. Questions I am interested in include: Do people talk in a, to them, specific *style*? How does style or phrasing affect a conversation? Is it possible to facilitate constructive online discussions? ...
+Generally, I am interested in how to **evaluate**, **measure** and **represent** language variation. Questions I am interested in include: How to measure language variation in a dataset? How to curate training datasets including language diversity? How to evaluate representation of language variation in LLMs? How to represent language variation in LLMs? ...
 
 ---
 
 ![drawn Anna presents](./assets/images/me_talk_blue.PNG){: style=" float: middle; height: 200px; " .align-center}
 
-I presented our paper on [Content-Independent Style Representations](https://aclanthology.org/2022.repl4nlp-1.26/) at RepL4NLP co-located with ACL 2022. See the video [here](https://www.youtube.com/watch?v=QHW7pfwJ56E). We put our style embedding model for everyone to use [on the huggingface model hub](https://huggingface.co/AnnaWegmann/Style-Embedding) (see also pic below). This is work building on [Does It Capture STEL? A Modular, Similarity-based Linguistic Style Evaluation Framework](https://aclanthology.org/2021.emnlp-main.569/), our 2021 EMNLP paper (video [here](https://www.youtube.com/watch?v=WPbxyOrDK6w)). 
+Check out our our style embedding model [on the huggingface model hub](https://huggingface.co/AnnaWegmann/Style-Embedding) (see also pic below). This is a model trained in [Content-Independent Style Representations](https://aclanthology.org/2022.repl4nlp-1.26/), see the video [here](https://www.youtube.com/watch?v=QHW7pfwJ56E). Evaluated on [STEL](https://github.com/nlpsoc/STEL). Consider contributing!
 
 ![example style representations](./assets/images/Style-Model.png){: style=" float: middle; height: 500px; " .align-center}
 
-Invited Talks: SCALE at Johns Hopkins University (2022); Bocconi University (2021); Complexity Science Hub, Vienna (2020)
+Talks: SCALE at Johns Hopkins University (2022); Bocconi University (2021); Complexity Science Hub, Vienna (2020)
 
 ---
 
