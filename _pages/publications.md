@@ -4,7 +4,7 @@ title: "Publications"
 ---
 **Under Review**  
 
-A Survey on Representing Linguistic Style: Challenges and Opportunities, Anna Wegmann, Cristina Aggazzotti, Rafael Rivera Soto and Dong Nguyen, Under Review, [preprint](https://annawegmann.github.io/pdf/Style_Survey.pdf), [Resources]([https://youtu.be/GnEpTTj4fc8](https://annawegmann.github.io/StyleSurvey/))
+A Survey on Representing Linguistic Style: Challenges and Opportunities, Anna Wegmann, Cristina Aggazzotti, Rafael Rivera Soto and Dong Nguyen, Under Review, [preprint](https://annawegmann.github.io/pdf/Style_Survey.pdf), [Resources](https://annawegmann.github.io/StyleSurvey/)
 
 **First Author Publications**  
 
