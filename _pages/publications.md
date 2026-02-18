@@ -5,6 +5,8 @@ title: "Publications"
 
 **First Author Publications**  
 
+A Survey on Representing Linguistic Style: Challenges and Opportunities, Anna Wegmann, Cristina Aggazzotti, Rafael Rivera Soto and Dong Nguyen, Under Review, [preprint](https://annawegmann.github.io/pdf/Style_Survey.pdf), [Resources]([https://youtu.be/GnEpTTj4fc8](https://annawegmann.github.io/StyleSurvey/))
+
 Tokenization is Sensitive to Language Variation, Anna Wegmann, Dong Nguyen and David Jurgens, ACL 2025 (Findings), [acl anthology](https://aclanthology.org/2025.findings-acl.572/), [Video](https://youtu.be/GnEpTTj4fc8), [Code](https://github.com/nlpsoc/Tokenization-Language-Variation)
 
 What's Mine becomes Yours: Defining, Annotating and Detecting Context-Dependent Paraphrases in News Interview Dialogs, Anna Wegmann, Tijs van den Broek and Dong Nguyen, EMNLP 2024 (main conference), [acl anthology](https://aclanthology.org/2024.emnlp-main.52/), [Precision Model Link](https://huggingface.co/AnnaWegmann/Highlight-Paraphrases-in-Dialog-ALL), [Data Link](https://huggingface.co/datasets/AnnaWegmann/Paraphrases-in-Interviews), [Video](https://www.youtube.com/watch?v=9H-YD7J0kvM), [Annotator Instructions](https://annawegmann.github.io/Paraphrases.html)
