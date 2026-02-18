@@ -2,10 +2,11 @@
 permalink: /publications/
 title: "Publications"
 ---
-
-**First Author Publications**  
+**Under Review**  
 
 A Survey on Representing Linguistic Style: Challenges and Opportunities, Anna Wegmann, Cristina Aggazzotti, Rafael Rivera Soto and Dong Nguyen, Under Review, [preprint](https://annawegmann.github.io/pdf/Style_Survey.pdf), [Resources]([https://youtu.be/GnEpTTj4fc8](https://annawegmann.github.io/StyleSurvey/))
+
+**First Author Publications**  
 
 Tokenization is Sensitive to Language Variation, Anna Wegmann, Dong Nguyen and David Jurgens, ACL 2025 (Findings), [acl anthology](https://aclanthology.org/2025.findings-acl.572/), [Video](https://youtu.be/GnEpTTj4fc8), [Code](https://github.com/nlpsoc/Tokenization-Language-Variation)
 
