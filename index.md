@@ -3,9 +3,9 @@ layout: single
 author_profile: true
 ---
 
-**TL;DR: Postdoctoral Researcher, Natural Language Processing, Language Variation and Diversity, Evaluating LLMs, Neural Style Representations, Paraphrasing in Dialog, Tokenization for Language Variation**
+**TL;DR: Postdoctoral Researcher, Natural Language Processing, Language Variation and Diversity, Evaluating LLMs, Neural Style Representations, Paraphrasing, Tokenization for Language Variation**
 
-I am a Postdoctoral Researcher at the [NLP and Society Lab](https://nlpsoc.github.io/) at [Utrecht University](https://www.uu.nl/en) with [Dong Nguyen](https://dongnguyen.nl/). I study language variation (e.g., lexical variation, spelling variation, ... clustered around different social groups) via natural language processing (NLP) and machine learning methods. Previously, I studied computer science and mathematics at RWTH Aachen University. I also spent time at places like University of Michigan, Vrije Universiteit Amsterdam, UNSW Sydney and University of Auckland. Currently wrapping up my thesis with the working title "Say the Same but Differently: Measuring Stylistic Variation and Paraphrasing Across Speakers".
+I am a Postdoctoral Researcher at the [NLP and Society Lab](https://nlpsoc.github.io/) at [Utrecht University](https://www.uu.nl/en) with [Dong Nguyen](https://dongnguyen.nl/). I study language variation (e.g., lexical variation, spelling variation, ... clustered around different social groups) via natural language processing (NLP) and machine learning methods. Previously, I studied computer science and mathematics at RWTH Aachen University. I also spent time at places like University of Michigan, Vrije Universiteit Amsterdam, UNSW Sydney and University of Auckland.  Find my thesis "Say the Same but Differently: Measuring Stylistic Variation and Paraphrasing Across Speakers" [here](https://annawegmann.github.io/pdf/25-09-29_thesis-as-printed.pdf).
 
 ![drawn Anna research](./assets/images/me_blue_research.PNG){: style=" float: middle; height: 150px; " .align-center}
 
@@ -23,12 +23,7 @@ Talks: SCALE at Johns Hopkins University (2022); Bocconi University (2021); Comp
 
 ---
 
-My PhD project is funded by [EMMA](https://www.emma.nl/) and [NWO](https://www.nwo.nl/en). This is a collaboration with Dong Nguyen (UU), [Kees van Deemter](https://www.uu.nl/staff/CJvanDeemter?t=0) (UU),  Tijs van den Broek and Bianca Beersma in the [#Bridging](https://nwo-bridging.github.io/) Project.
-
----
-
 **Interested in doing a Bachelor's or Master's Thesis with me?** see: [Student Projects](https://annawegmann.github.io/student-projects/)
-
 
 
 
