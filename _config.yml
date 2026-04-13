@@ -18,7 +18,6 @@ email: a.m.wegmann@uu.nl
 description: >- # this means to ignore newlines until "baseurl:"
   Anna Wegmann's personal website
 bsky_username: annawegmann.bsky.social
-twitter_username: anna_wegmann
 github_username: AnnaWegmann
 # logo: "/assets/images/me_blue_88x105.PNG"
 minimal_mistakes_skin: default
@@ -73,9 +72,6 @@ author:
     - label: "a.m.wegmann@uu.nl"
       icon: "fas fa-fw fa-envelope-square"
       url: "https://annawegmann.github.io/"
-    - label: "@anna_wegmann"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/anna_wegmann"
     - label: "&nbsp; B9Ot26sAAAAJ"
       icon: "fas ai ai-google-scholar"
       url: "https://scholar.google.com/citations?user=B9Ot26sAAAAJ"
@@ -89,9 +85,6 @@ footer:
     - label: "🦋 @annawegmann"
       icon: "<span class='icon-butterfly'>🦋</span>"
       url: "https://bsky.app/profile/annawegmann.bsky.social"    
-    - label: "@anna_wegmann"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/anna_wegmann"
     - label: "Google Scholar"
       icon: "ai ai-google-scholar"
       url: "https://scholar.google.com/citations?user=B9Ot26sAAAAJ"
