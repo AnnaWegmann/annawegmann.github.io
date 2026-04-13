@@ -5,7 +5,7 @@ sitemap: false
 permalink: /style_representations.html
 ---
 
-I provide several resources that you might find useful if you are interested in style (representations).
+I provide several resources that you might find useful if you already are interested in style (representations). And resources to convince you that you should be more interested in style representations.
 
 **Survey Paper:** [A Plea for More Style Representations (Preprint)](https://annawegmann.github.io/pdf/26-01-05_Style_Survey_preprint.pdf) — Our survey paper on style representations, covering definitions, models, datasets, and open challenges.
 
