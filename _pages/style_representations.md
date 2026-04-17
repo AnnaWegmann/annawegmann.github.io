@@ -11,4 +11,6 @@ I provide several resources that you might find useful if you already are intere
 
 **Companion Website:** [StyleSurvey](https://annawegmann.github.io/StyleSurvey/) — An interactive companion site with curated resources organized into papers, definitions, models/tools, and datasets related to style representations. This is far from exhaustive, help with pull requests or e-mails!
 
-**Code Repository:** [GitHub](https://github.com/AnnaWegmann/StyleSurvey) — The repository behind the companion website, containing code, quickstart guides, and all collected resources. 
+**Code Repository:** [GitHub](https://github.com/AnnaWegmann/StyleSurvey) — The repository behind the companion website, containing code, quickstart guides, and all collected resources.
+
+**Tool:** [diversify-text](https://annawegmann.github.io/diversify_text/) — A tool to generate stylistically diverse paraphrases of your own texts using local transformer models. Includes documentation on usage, supported file formats, paraphrasing methods (e.g. TinyStyler, prompting), and an API reference.
