@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 ---
 
-**TL;DR: Postdoctoral Researcher, Natural Language Processing, Language Variation and Diversity, Evaluating LLMs, Neural Style Representations, Paraphrasing, Tokenization for Language Variation**
+**TL;DR: Machine Learning Researcher in Natural Language Processing, Language Variation and Diversity, Evaluating LLMs, Neural Style Representations, Paraphrasing, Tokenization for Language Variation**
 
 I am a Postdoctoral Researcher at the [NLP and Society Lab](https://nlpsoc.github.io/) at [Utrecht University](https://www.uu.nl/en) with [Dong Nguyen](https://dongnguyen.nl/). I study language variation (e.g., lexical variation, spelling variation, ... clustered around different social groups) via natural language processing (NLP) and machine learning methods. Previously, I studied computer science and mathematics at RWTH Aachen University. I also spent time at places like University of Michigan, Vrije Universiteit Amsterdam, UNSW Sydney and University of Auckland.  Find my thesis "Say the Same but Differently: Measuring Stylistic Variation and Paraphrasing Across Speakers" [here](https://annawegmann.github.io/pdf/25-09-29_thesis-as-printed.pdf).
 
