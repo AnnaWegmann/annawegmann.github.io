@@ -11,5 +11,7 @@ main:
     url: /publications/
   - title: "Style Representations"
     url: /style_representations.html
+  - title: "Dissertation"
+    url: /dissertation/
   - title: "Student Projects"
     url: /student-projects/
