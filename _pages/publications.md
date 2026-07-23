@@ -6,7 +6,13 @@ title: "Publications"
 
 A Survey on Representing Linguistic Style: Challenges and Opportunities, Anna Wegmann, Cristina Aggazzotti, Rafael Rivera Soto and Dong Nguyen, Under Review, [preprint](https://annawegmann.github.io/pdf/Style_Survey.pdf), [Resources](https://annawegmann.github.io/StyleSurvey/)
 
-**First Author Publications**  
+STEB: Style Text Embedding Benchmark, Rafael Rivera Soto, Anna Wegmann, Cristina Aggazzotti, Under Review, [preprint](https://arxiv.org/abs/2606.31741)
+
+emb-diversity: A Tool for Embedding-Based Measurement of Data Diversity, Cantao Su, Menan Velayuthan, Esther Ploeger, Dong Nguyen, Anna Wegmann, Under Review, [arxiv](https://arxiv.org/abs/2607.19848)
+
+Measuring Data Diversity with Embeddings: A Taxonomy and Benchmark for Diversity Measures, Cantao Su, Anna Wegmann, Esther Ploeger, Dong Nguyen, [preprint](https://github.com/nlpsoc/emb-diversity/blob/main/assets/26-07-09_Measuring_Data_Diversity.pdf)
+
+**Main Author Publications**  
 
 Tokenization is Sensitive to Language Variation, Anna Wegmann, Dong Nguyen and David Jurgens, ACL 2025 (Findings), [acl anthology](https://aclanthology.org/2025.findings-acl.572/), [Video](https://youtu.be/GnEpTTj4fc8), [Code](https://github.com/nlpsoc/Tokenization-Language-Variation)
 
