@@ -6,9 +6,9 @@ title: "Publications"
 
 A Survey on Representing Linguistic Style: Challenges and Opportunities, Anna Wegmann, Cristina Aggazzotti, Rafael Rivera Soto and Dong Nguyen, Under Review, [preprint](https://annawegmann.github.io/pdf/Style_Survey.pdf), [Resources](https://annawegmann.github.io/StyleSurvey/)
 
-STEB: Style Text Embedding Benchmark, Rafael Rivera Soto, Anna Wegmann, Cristina Aggazzotti, Under Review, [preprint](https://arxiv.org/abs/2606.31741)
+STEB: Style Text Embedding Benchmark, Rafael Rivera Soto, Anna Wegmann, Cristina Aggazzotti, Under Review, [preprint](https://arxiv.org/abs/2606.31741), [Code](https://github.com/rrivera1849/STEB)
 
-emb-diversity: A Tool for Embedding-Based Measurement of Data Diversity, Cantao Su, Menan Velayuthan, Esther Ploeger, Dong Nguyen, Anna Wegmann, Under Review, [arxiv](https://arxiv.org/abs/2607.19848)
+emb-diversity: A Tool for Embedding-Based Measurement of Data Diversity, Cantao Su, Menan Velayuthan, Esther Ploeger, Dong Nguyen, Anna Wegmann, Under Review, [arxiv](https://arxiv.org/abs/2607.19848), [Python Package](https://github.com/nlpsoc/emb-diversity)
 
 Measuring Data Diversity with Embeddings: A Taxonomy and Benchmark for Diversity Measures, Cantao Su, Anna Wegmann, Esther Ploeger, Dong Nguyen, [preprint](https://github.com/nlpsoc/emb-diversity/blob/main/assets/26-07-09_Measuring_Data_Diversity.pdf)
 
