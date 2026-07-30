@@ -4,7 +4,7 @@ title: "Publications"
 ---
 **Under Review**  
 
-A Survey on Representing Linguistic Style: Challenges and Opportunities, Anna Wegmann, Cristina Aggazzotti, Rafael Rivera Soto and Dong Nguyen, Under Review, [preprint](https://annawegmann.github.io/pdf/Style_Survey.pdf), [Resources](https://annawegmann.github.io/StyleSurvey/)
+A Survey on Representing Linguistic Style: Challenges and Opportunities, Anna Wegmann, Cristina Aggazzotti, Rafael Rivera Soto and Dong Nguyen, Under Review, [preprint](https://annawegmann.github.io/pdf/26-07_Style_Survey_preprint.pdf), [Resources](https://annawegmann.github.io/StyleSurvey/)
 
 STEB: Style Text Embedding Benchmark, Rafael Rivera Soto, Anna Wegmann, Cristina Aggazzotti, Under Review, [preprint](https://arxiv.org/abs/2606.31741), [Code](https://github.com/rrivera1849/STEB)
 
