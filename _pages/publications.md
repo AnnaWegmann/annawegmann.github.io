@@ -12,7 +12,7 @@ A Survey on Representing Linguistic Style: Challenges and Opportunities, **Anna 
 
 STEB: Style Text Embedding Benchmark, Rafael Rivera Soto, **Anna Wegmann**, Cristina Aggazzotti, EMNLP 2026 (main), [preprint](https://arxiv.org/abs/2606.31741), [Code](https://github.com/rrivera1849/STEB)
 
-Measuring Data Diversity with Embeddings: A Taxonomy and Benchmark for Diversity Measures, Cantao Su, **Anna Wegmann**, Esther Ploeger, Dong Nguyen, EMNLP 2026 (main), [preprint](https://github.com/nlpsoc/emb-diversity/blob/main/assets/26-07-09_Measuring_Data_Diversity.pdf)
+Measuring Data Diversity with Embeddings: A Taxonomy and Benchmark for Diversity Measures, Cantao Su, **Anna Wegmann**, Esther Ploeger, Dong Nguyen, EMNLP 2026 (main), [preprint](https://annawegmann.github.io/pdf/Preprint_Benchmark_for_Diversity_Measures.pdf)
 
 Tokenization is Sensitive to Language Variation, **Anna Wegmann**, Dong Nguyen and David Jurgens, ACL 2025 (Findings), [acl anthology](https://aclanthology.org/2025.findings-acl.572/), [Video](https://youtu.be/GnEpTTj4fc8), [Code](https://github.com/nlpsoc/Tokenization-Language-Variation)
 
