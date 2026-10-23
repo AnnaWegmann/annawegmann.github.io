@@ -78,6 +78,9 @@ author:
     - label: "AnnaWegmann"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/AnnaWegmann"
+    - label: "anna-wegmann"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/anna-wegmann"
 
 
 footer:
@@ -91,6 +94,9 @@ footer:
     - label: "a.m.wegmann@uu.nl"
       icon: "fas fa-fw fa-envelope-square"
       url: "https://annawegmann.github.io/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/anna-wegmann"
 
 defaults:
 #  # _posts
